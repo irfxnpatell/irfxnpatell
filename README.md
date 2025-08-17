@@ -8,9 +8,6 @@
 ## About Me
 
 I'm a passionate Full Stack Developer focused on building scalable and efficient web applications. 
-
-Perfect 👍 thanks for clarifying! Since you prefer **front-end** but also enjoy **full stack development**, I’ll adjust your points to reflect that clearly.
-
 ---
 
 ✨ About me
