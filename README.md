@@ -26,7 +26,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts" alt="Programming Languages"/>
   </a>
 </p>
 
@@ -40,7 +40,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 ### Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,go,postgresql,mysql,mongodb,prisma,redis,firebase,nginx" alt="Backend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,postgresql,mysql,mongodb,prisma,redis,firebase,nginx" alt="Backend Technologies"/>
   </a>
 </p>
 
