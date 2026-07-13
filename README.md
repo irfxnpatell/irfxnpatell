@@ -33,21 +33,21 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 ### Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,jquery" alt="Frontend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend Technologies"/>
   </a>
 </p>
 
 ### Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgresql,mysql,mongodb,prisma,redis,firebase,nginx" alt="Backend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,postgresql,mysql,mongodb,redis,firebase" alt="Backend Technologies"/>
   </a>
 </p>
 
 ### Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,kubernetes,gcp,aws,vscode,figma" alt="Development Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,vscode" alt="Development Tools"/>
   </a>
 </p>
 
